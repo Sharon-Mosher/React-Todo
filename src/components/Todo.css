@@ -39,6 +39,7 @@ span {
 }
 h1 {
   text-align: left;
+  font-size: 1.5rem;
 }
 
 .todo-list {
@@ -58,9 +59,10 @@ h1 {
 }
 
 .item.completed {
-  background-color: mistyrose;
+  background-color: blue;
   text-decoration: line-through;
 }
+
 form {
   width: 50%;
   display: flex;
